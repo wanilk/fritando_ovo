@@ -11,7 +11,8 @@ export default function CardList({ receitas }) {
                     titulo={receita.titulo}
                     tempoPreparo={receita.tempoPreparo}
                     porcoes={receita.porcoes}
-                    imagem={receita.imagem} />
+                    imagem={receita.imagem}
+                    />
 
             ))}
         </div>
