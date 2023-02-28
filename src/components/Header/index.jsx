@@ -2,7 +2,7 @@ import styles from "./Header.module.css";
 
 export default function Header() {
     return (
-        <header>
+        <header className={styles.titulo}>
             <div className={styles.header}>
                 <img className={styles.header_img} src="/frigideira.svg"
                     alt="imagem de uma frigideira" />
