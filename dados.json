@@ -1,0 +1,12 @@
+{
+    "receitas": [
+        {"id": 1, "titulo" : "ovo com arroz"},
+        {"id": 2, "titulo" : "ovo com feijão"},
+        {"id": 3, "titulo" : "ovo com macarrão"} 
+    ],
+    "usuarios": [
+        {"id": 1, "nome" : "João"},
+        {"id": 2, "nome" : "Maria"},
+        {"id": 3, "nome" : "José"} 
+    ]
+}
